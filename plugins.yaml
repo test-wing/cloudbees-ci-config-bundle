@@ -8,11 +8,14 @@ plugins:
 - id: cloudbees-groovy-view
 - id: cloudbees-monitoring
 - id: cloudbees-nodes-plus
+- id: cloudbees-pipeline-policies
+- id: cloudbees-slack
 - id: cloudbees-template
 - id: cloudbees-view-creation-filter
 - id: cloudbees-workflow-template
 - id: cloudbees-workflow-ui
 - id: configuration-as-code
+- id: configuration-as-code-groovy
 - id: data-tables-api
 - id: echarts-api
 - id: font-awesome-api
@@ -29,7 +32,7 @@ plugins:
 - id: pipeline-stage-view
 - id: plugin-util-api
 - id: pipeline-utility-steps
-- id: popper-api
+- id: popper-api 
 - id: warnings-ng
 - id: wikitext
 - id: workflow-aggregator
